@@ -23,8 +23,7 @@ public:
         if(n==1)
             return true;
         
-        return false;
-        
+        return false;   
     }
 };
 int main()
